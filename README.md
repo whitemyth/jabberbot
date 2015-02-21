@@ -1,0 +1,2 @@
+# jabberbot
+scripts for jabber
